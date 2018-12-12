@@ -1,0 +1,3 @@
+var N = null;var sourcesIndex = {};
+sourcesIndex['coresimd'] = {"name":"","dirs":[{"name":"coresimd","dirs":[{"name":"powerpc","dirs":[],"files":["altivec.rs","mod.rs","vsx.rs"]},{"name":"powerpc64","dirs":[],"files":["mod.rs"]}],"files":["macros.rs","mod.rs","simd.rs","simd_llvm.rs"]}],"files":["lib.rs"]};
+sourcesIndex['stdsimd'] = {"name":"","dirs":[{"name":"stdsimd","dirs":[{"name":"arch","dirs":[{"name":"detect","dirs":[{"name":"arch","dirs":[],"files":["powerpc64.rs"]},{"name":"os","dirs":[{"name":"linux","dirs":[],"files":["auxvec.rs","cpuinfo.rs","mod.rs","powerpc.rs"]}],"files":[]}],"files":["bit.rs","cache.rs","error_macros.rs","mod.rs"]}],"files":[]}],"files":["mod.rs"]}],"files":["lib.rs"]};

@@ -1,0 +1,3 @@
+var N = null;var sourcesIndex = {};
+sourcesIndex['coresimd'] = {"name":"","dirs":[{"name":"coresimd","dirs":[{"name":"mips","dirs":[],"files":["mod.rs","msa.rs"]}],"files":["macros.rs","mod.rs","simd.rs","simd_llvm.rs"]}],"files":["lib.rs"]};
+sourcesIndex['stdsimd'] = {"name":"","dirs":[{"name":"stdsimd","dirs":[{"name":"arch","dirs":[{"name":"detect","dirs":[{"name":"arch","dirs":[],"files":["mips.rs"]},{"name":"os","dirs":[{"name":"linux","dirs":[],"files":["auxvec.rs","cpuinfo.rs","mips.rs","mod.rs"]}],"files":[]}],"files":["bit.rs","cache.rs","error_macros.rs","mod.rs"]}],"files":[]}],"files":["mod.rs"]}],"files":["lib.rs"]};
